@@ -1,5 +1,6 @@
-This is FileB
+ vThis is FileB
 Let's make a change
 
 we will pull this fileB.txt to our local. 
 gf
+ b nhgn
